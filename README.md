@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/irshat-03.01.2025-fffff.svg?labelColor=ffd700)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
-[![Git Hub](https://img.shields.io/badge/Git_Hub-Candles-004096.svg?labelColor=000000)](https://github.com/Flippo24/candles)
+[![Git Hub](https://img.shields.io/badge/Git_Hub-browser_cache_ttl-004096.svg?labelColor=000000)](https://github.com/Flippo24/candles)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/npm/v/browser-cache-ttl.svg)](https://www.npmjs.com/package/browser-cache-ttl)
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/browser-cache-ttl)](https://bundlephobia.com/result?p=browser-cache-ttl)
