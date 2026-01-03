@@ -6,9 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/npm/v/browser-cache-ttl.svg)](https://www.npmjs.com/package/browser-cache-ttl)
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/browser-cache-ttl)](https://bundlephobia.com/result?p=browser-cache-ttl)
-[![Downloads](https://img.shields.io/npm/dm/browser-cache-ttl.svg)](https://www.npmjs.com/package/browser-cache-ttl)
-[![CI](https://github.com/your-user/browser-cache-ttl/actions/workflows/ci.yml/badge.svg)](https://github.com/your-user/browser-cache-ttl/actions/workflows/ci.yml)
-[![GitHub Stars](https://img.shields.io/github/stars/your-user/browser-cache-ttl.svg?style=social)](https://github.com/your-user/browser-cache-ttl)
 
 A tiny, dependency-free browser cache with **TTL support**, **automatic expiration**, and **smart fallback**.
 
