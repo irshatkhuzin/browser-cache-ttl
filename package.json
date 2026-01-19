@@ -1,6 +1,6 @@
 {
   "name": "browser-cache-ttl",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Simple browser cache with TTL using localStorage or memory fallback.",
   "exports": {
     ".": {

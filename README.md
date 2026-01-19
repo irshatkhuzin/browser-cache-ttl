@@ -104,11 +104,11 @@ Stops automatic TTL cleanup.
 ```ts
 const cache = new CacheManager();
 
-cache.set('session', 'active', 200);
+cache.set('session', 'active', 5);
 
 setTimeout(() => {
   console.log(cache.get('session')); // null after expiration
-}, 300);
+}, 6000);
 ```
 
 ## Browser Support

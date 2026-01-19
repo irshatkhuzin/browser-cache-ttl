@@ -13,7 +13,7 @@ export class CacheManager {
             : new MemoryAdapter();
 
         if (options?.cleanupIntervalMs) {
-            this.cleanupIntervalMs = options.cleanupIntervalMs;
+            this.cleanupIntervalMs = options.cleanupIntervalMs * 1000;
         }
 
         this.startCleanupTask();
